@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_items">16dp</dimen>
+    <dimen name="nameSize_items">32sp</dimen>
+    <dimen name="marginSize_items">8dp</dimen>
+    <dimen name="born_diedSize_items">16sp</dimen>
+    <dimen name="addNew_title_textSize">20sp</dimen>
+    <dimen name="input_new_textSize">18sp</dimen>
+    <dimen name="marginTop_new">30sp</dimen>
+</resources>

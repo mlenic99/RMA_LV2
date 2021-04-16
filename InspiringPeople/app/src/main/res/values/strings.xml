@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InspiringPeople</string>
+    <string name="AddNew_title">Add new inspiring person:</string>
+    <string name="input_name_new">Name:</string>
+    <string name="input_born_died_new">Born and/or died:</string>
+    <string name="input_description_new">Description:</string>
+    <string name="enter_new_name">Enter new name</string>
+    <string name="modric_quote_1">There are ups and downs, but whatever happens, you have to trust and believe in yourself.-LM</string>
+    <string name="modric_quote_2">You must never give up and have faith in yourself.-LM</string>
+    <string name="modric_quote_3">You cannot predict things in football because anything can happen.-LM</string>
+    <string name="ramos_quote_1">Being the captain is a great privilege and a responsibility to lead a great group with different cultures.-SR</string>
+    <string name="ramos_quote_2">Ignorance makes you very bold.-SR</string>
+    <string name="ramos_quote_3">I need to keep quiet and do my talking on the pitch.-SR</string>
+    <string name="shakespeare_quote_1">Some are born great, some achieve greatness, and some have greatness thrust upon them.-WS</string>
+    <string name="shakespeare_quote_2">We know what we are, but know not what we may be.-WS</string>
+    <string name="shakespeare_quote_3">A fool thinks himself to be wise, but a wise man knows himself to be a fool.-WS</string>
+</resources>
